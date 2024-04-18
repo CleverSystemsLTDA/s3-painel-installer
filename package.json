@@ -1,6 +1,6 @@
 {
 	"name": "s3-painel-installer",
-	"version": "1.3.3-alpha",
+	"version": "1.3.3-beta",
 	"description": "Sistema de Senhas Simples Painel de Chamadas",
 	"main": "src/main.js",
 	"scripts": {
